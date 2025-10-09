@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/Assdaqdex",
   "VITE_SEO_SITE_NAME": "Assdaq",
   "VITE_SEO_SITE_DESCRIPTION": "ASSDAQ is a decentralized perpetuals exchange (perp DEX) offering secure, high-performance trading with advanced tools for professional traders who love ass.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/assdaq-8733/",
+  "VITE_SEO_SITE_URL": "https://assdex.xyz",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@assdaqdex",
